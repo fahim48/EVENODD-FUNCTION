@@ -1,5 +1,6 @@
 # EVENODD-FUNCTION
 def even_odd():
+    
     number="wrong"
     while number.isdigit()==False:
         number=input("Please enter your number: ")
